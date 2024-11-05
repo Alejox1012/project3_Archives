@@ -1,0 +1,9 @@
+Factura de Renta
+=================
+Nombre del Cliente: juan
+Películas Rentadas:
+- narnia - Precio: $10000.0
+- ggg - Precio: $13000.0
+- sss - Precio: $10000.0
+Fecha de Devolución: 05/11/2024
+Precio Total: $29700.0
