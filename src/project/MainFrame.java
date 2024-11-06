@@ -89,8 +89,7 @@ public class MainFrame extends javax.swing.JFrame {
                 .addGap(162, 162, 162))
         );
 
-        jMenuBar1.setBackground(new java.awt.Color(204, 204, 255));
-        jMenuBar1.setForeground(new java.awt.Color(204, 204, 255));
+        jMenuBar1.setToolTipText("");
 
         jMenu1.setText("File");
 

@@ -1,12 +1,12 @@
-prm1023,greta2,2024,adas,true,13000.0
-reg1021,ha,202,sd,true,10000.0
-prm1019,harry potter,2024,accion,true,13000.0
-reg1017,aaaaaaaaaaa,2023,accion,true,10000.0
-reg1015,dasd,2023,asdas,true,10000.0
-reg1013,dassda,2023,accion,true,10000.0
-reg1011,adad,2023,accion,true,10000.0
-prm1009,a,2024,a,true,13000.0
-reg1007,greta,2023,perra,true,10000.0
-reg1005,sss,2023,sss,true,10000.0
-prm1003,ggg,2024,ggg,true,13000.0
-reg1001,ss,1000,ss,true,10000.0
+reg1047,ss,1000,ss,true,10000.0
+prm1045,ggg,2024,ggg,true,13000.0
+reg1043,sss,2023,sss,true,10000.0
+reg1041,greta,2023,perra,true,10000.0
+prm1039,a,2024,a,true,13000.0
+reg1037,adad,2023,accion,true,10000.0
+reg1035,dassda,2023,accion,true,10000.0
+reg1033,dasd,2023,asdas,true,10000.0
+reg1031,aaaaaaaaaaa,2023,accion,true,10000.0
+prm1029,harry potter,2024,accion,true,13000.0
+reg1027,ha,202,sd,true,10000.0
+prm1025,greta2,2024,adas,true,13000.0

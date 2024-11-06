@@ -47,6 +47,10 @@ public abstract class Movie {
     public String getMovieCode() {
         return movieCode; // Ahora retorna un String
     }
+
+    public void setIsAvailable(boolean isAvailable) {
+        this.isAvailable = isAvailable;
+    }
     
     
 

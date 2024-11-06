@@ -1,0 +1,9 @@
+Factura de Renta
+=================
+Nombre del Cliente: juan
+Películas Rentadas:
+- greta2 - Precio: $13000.0
+- ha - Precio: $10000.0
+- aaaaaaaaaaa - Precio: $10000.0
+Fecha de Devolución: 06/11/2024
+Precio Total: $29700.0
